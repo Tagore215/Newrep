@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{9C83A68A-FF54-4AB4-8BAB-62BEEF5C186D}|Default">
+  <MonoDevelop.Ide.ItemProperties.MenuItemsListingAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MenuItemsListingAPI/Dockerfile">
+    <Files>
+      <File FileName="MenuItemsListingAPI/Dockerfile" Line="11" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MenuItemsListingAPI" expanded="True">
+            <Node name="MenuItemsListingAPI" expanded="True">
+              <Node name="Dockerfile" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
